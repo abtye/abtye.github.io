@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>我的网站 Blog</title>
+        <link>https://abtye.github.io/blog</link>
+        <description>我的网站 Blog</description>
+        <lastBuildDate>Thu, 07 Dec 2023 14:40:39 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>zh-Hans</language>
+        <item>
+            <title><![CDATA[嗨]]></title>
+            <link>https://abtye.github.io/blog/hi</link>
+            <guid>https://abtye.github.io/blog/hi</guid>
+            <pubDate>Thu, 07 Dec 2023 14:40:39 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

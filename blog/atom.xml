@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://abtye.github.io/blog</id>
+    <title>我的网站 Blog</title>
+    <updated>2023-12-07T14:40:39.706Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://abtye.github.io/blog"/>
+    <subtitle>我的网站 Blog</subtitle>
+    <icon>https://abtye.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[嗨]]></title>
+        <id>https://abtye.github.io/blog/hi</id>
+        <link href="https://abtye.github.io/blog/hi"/>
+        <updated>2023-12-07T14:40:39.706Z</updated>
+    </entry>
+</feed>

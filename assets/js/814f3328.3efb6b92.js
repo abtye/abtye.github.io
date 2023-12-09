@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkabtye_github_io=self.webpackChunkabtye_github_io||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"\u55e8","permalink":"/blog/hi","unlisted":false}]}')}}]);
